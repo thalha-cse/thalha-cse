@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jmdthalha.cse@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/clux3](shorturl.at/clux3)
+- 📄 Know about my experiences [https://rb.gy/gbv5fl](https://rb.gy/gbv5fl)
 
 - ⚡ Fun fact **Newbie to Programming World...**
 
@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-thalha&show_icons=true&locale=en" alt="mohammed-thalha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-thalha&" alt="mohammed-thalha" /></p>
-
