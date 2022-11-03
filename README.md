@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm THALHA</h1>
+<h1 align="center">Hi 👋, I'm MOHAMMED THALHA J</h1>
 <h3 align="center">A passionate Back-End developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jmdthalha.cse@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k7yT7S6tL8jPh0uPimZvONR8JBrwDPXo/view?usp=sharing](https://drive.google.com/file/d/1k7yT7S6tL8jPh0uPimZvONR8JBrwDPXo/view?usp=sharing)
+- 📄 Know about my experiences [shorturl.at/clux3](shorturl.at/clux3)
 
 - ⚡ Fun fact **Newbie to Programming World...**
 
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-thalha&show_icons=true&locale=en" alt="mohammed-thalha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-thalha&" alt="mohammed-thalha" /></p>
+
