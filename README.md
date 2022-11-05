@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm THALHA</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate Software Development Engineer(SDE)</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Java, DSA**
 
-- 👨‍💻 All of my projects are available at [https://thalha-portfolio.netlify.app](https://thalha-portfolio.netlify.app)
+- 👨‍💻 My Portfolio available at [https://thalha-portfolio.netlify.app](https://thalha-portfolio.netlify.app)
 
 - 💬 Ask me about **HTML, Python, MS Office**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://rb.gy/gbv5fl](https://rb.gy/gbv5fl)
 
-- ⚡ Fun fact **Newbie to Programming World...**
+- ⚡ Fun fact **"Newbie to Programming World..."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
