@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Portfolio available at [https://thalha-portfolio.netlify.app](https://thalha-portfolio.netlify.app)
 
-- 💬 Ask me about **HTML, Python, MS Office**
+- 💬 Ask me about **HTML, Python, Java, C/C++, MS Office, Tally ERP 9, **
 
 - 📫 How to reach me **jmdthalha.cse@gmail.com**
 
