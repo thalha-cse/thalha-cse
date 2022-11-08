@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, DSA**
 
-- 👨‍💻 All of my projects are available at [https://thalha-portfolio.netlify.app](https://thalha-portfolio.netlify.app)
+- 👨‍💻 My Portfolio available at [https://thalha-portfolio.netlify.app](https://thalha-portfolio.netlify.app)
 
 - 💬 Ask me about **HTML, Python, MS Office**
 
