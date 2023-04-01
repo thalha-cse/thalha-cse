@@ -15,6 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+<a href="https://stardev.io/developers/thalha-cse"><img alt="Check out thalha-cse's profile on stardev.io" src="https://stardev.io/developers/thalha-cse/badge/languages/global.svg" /></a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=thalha-cse&icon=1&color=0)](https://visitcount.itsvg.in)
 
